@@ -1,5 +1,5 @@
 {
-    "name": "sylius/invoicing-plugin",
+    "name": "tulik/invoicing-plugin",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin", "symfony", "e-commerce", "invoicing"],
     "description": "Invoicing plugin for Sylius.",
